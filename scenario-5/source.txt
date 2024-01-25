@@ -1,0 +1,18 @@
+# Transform html into json
+
+<ul>
+    <li>Home</li>
+    <li>Levi</li>
+    <li>Salo</li>
+    <li>Tampere</li>
+    <li>Fuengirola</li>
+</ul>
+
+{
+    "destinations": [
+        {
+            "target": "",
+            "wasFun": ""
+        }
+    ]
+}

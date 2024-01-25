@@ -1,0 +1,8 @@
+// Create a typescript type from json object
+
+const destination = {
+    "target": "Fuengirola",
+    "wasFun": "Yes!",
+    "country": "Espanja"
+    "domestic": true,
+}

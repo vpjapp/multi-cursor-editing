@@ -1,0 +1,19 @@
+# Copy the i18next keys and values to excel in their own columns
+
+## Keys:
+{Version info: Backend}
+{Version info: Build date}
+{Version info: Frontend}
+{Version info: Git commit}
+{Version info: Git commit short}
+{Version info: Versions}
+{Version info: Versions heading}
+
+## Values:
+Backend
+Build date
+Frontend
+Git commit hash
+Short git commit hash
+Versions
+Deployed app versions

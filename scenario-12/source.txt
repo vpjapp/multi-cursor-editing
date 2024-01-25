@@ -1,0 +1,8 @@
+# Take the packages and create an "npm update" command
+
+@storybook/addon-actions              6.5.16   6.5.16    7.5.3  node_modules/@storybook/addon-actions             uniofy-web
+@storybook/addon-essentials           6.5.16   6.5.16    7.5.3  node_modules/@storybook/addon-essentials          uniofy-web
+@storybook/addon-links                6.5.16   6.5.16    7.5.3  node_modules/@storybook/addon-links               uniofy-web
+@storybook/addons                     6.5.16   6.5.16    7.5.3  node_modules/@storybook/addons                    uniofy-web
+@storybook/node-logger                6.5.16   6.5.16    7.5.3  node_modules/@storybook/node-logger               uniofy-web
+@storybook/react                      6.5.16   6.5.16    7.5.3  node_modules/@storybook/react                     uniofy-web

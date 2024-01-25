@@ -1,0 +1,8 @@
+# Create a typescript type from js object
+
+export type destination = {
+    target: string,
+    wasFun: string,
+    country: string,
+    domestic: boolean,
+}

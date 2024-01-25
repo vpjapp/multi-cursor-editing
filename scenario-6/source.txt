@@ -1,0 +1,32 @@
+# Add info to json list
+
+Home: Suomi
+Levi: Suomi
+Salo: Suomi
+Tampere: Ulkomaa
+Fuengirola: Espanja
+
+{
+    "destinations": [
+        {
+            "target": "Home",
+            "wasFun": "NO!"
+        },
+        {
+            "target": "Levi",
+            "wasFun": "Yes!"
+        },
+        {
+            "target": "Salo",
+            "wasFun": "Yes!"
+        },
+        {
+            "target": "Tampere",
+            "wasFun": "Yes!"
+        },
+        {
+            "target": "Fuengirola",
+            "wasFun": "Yes!"
+        },
+    ]
+}
